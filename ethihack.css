@@ -1,0 +1,40 @@
+body{
+	background-image:url(https://3.bp.blogspot.com/-FBySGlSgFPU/Vtq3fh75YdI/AAAAAAAAAPY/JSZgRFYmrQM/w1200-h630-p-nu/difference-between-black-hat-and-white-hat-SEO11.png);
+	background-repeat: no-repeat;
+	background-size: 2150px;
+
+}
+
+.top {
+	color: rgb(25, 255, 20);
+	font: sans-serif;
+	text-align: center;
+	background-color: rgb(0, 0, 0);
+
+}
+
+.Description {
+	color: rgb(255, 255, 255);
+	font-size: 40px;
+}
+
+.BlackHat{
+	margin:50px;
+	color: white;
+	font-size: 35px;
+}
+
+.WhiteHat{	
+	color: white;
+	font-size: 30px;
+}
+.GreyHat{
+	color: white;
+	font-size: 34px;
+
+}
+.GreyHat,.WhiteHat{
+	background-image:url(http://il2.picdn.net/shutterstock/videos/1281520/thumb/1.jpg);
+	background-repeat: no-repeat;
+	background-size: 4500px;
+}
