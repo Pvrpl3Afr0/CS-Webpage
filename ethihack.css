@@ -38,3 +38,10 @@ body{
 	background-repeat: no-repeat;
 	background-size: 4500px;
 }
+
+.Forms{
+	background-color: rgb(200, 255, 0);
+	color: black;
+	font-style: comic;
+	font-size: 27px;
+}
