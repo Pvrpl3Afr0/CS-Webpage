@@ -1,2 +1,2 @@
 # CS-Webpage
-Ethical hacking Stuff
+Ethical Hacking Webpage for Computer Science at School of the Future
