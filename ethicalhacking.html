@@ -2,8 +2,9 @@
 <html>
 	<head>
 		<title> Ethical Hacking</title>
+		<link href='ethihack.css' type='text/css' rel='stylesheet'>
 	</head>
-	<link href='ethihack.css' type='text/css' rel='stylesheet'>
+
 		<body>
 			<div class=top>
 			<h1> What makes an ethical hacker?</h1>
@@ -38,7 +39,7 @@
 			
 		<div class=Forms>
 			<p> Have any Questions, Comments or concerns? Put them here and I'll see what you had to say!</p>
-			<form>
+			<form action="mailto:henramos28@gmail.com" method=post enctype="text/plain">
 		Full Name<br>
 		<input type= 'text' name= 'Full Name'> <br>
 		E-mail<br>
@@ -46,6 +47,7 @@
 		IP Address <br>
 		<input type= 'text' name= 'IP'> <br>
 		Message - What do you think about the different forms of hackers?<br>
-		<input type= 'text' name= "Message"> <br>
+		<textarea id="msg" name="Message"></textarea> <br>
+		<input type="submit" value="Send">
 		</form>
 		
