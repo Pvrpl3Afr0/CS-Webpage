@@ -1,21 +1,30 @@
 body{
 	background-image:url(https://3.bp.blogspot.com/-FBySGlSgFPU/Vtq3fh75YdI/AAAAAAAAAPY/JSZgRFYmrQM/w1200-h630-p-nu/difference-between-black-hat-and-white-hat-SEO11.png);
-	background-repeat: no-repeat;
-	background-size: 2150px;
+	background-repeat: repeat-y;
+	background-size: 7000px;
 
+	
+
+}
+img{
+	border-radius: 45%;
+	border-image-width: 10px
 }
 
 .top {
 	color: rgb(25, 255, 20);
 	font: sans-serif;
 	text-align: center;
-	background-color: rgb(0, 0, 0);
+	background-color: rgb(0, 0, 0)
 
 }
 
 .Description {
 	color: rgb(255, 255, 255);
 	font-size: 40px;
+	margin: 50px;
+	padding: 10px;
+	border: 10px;
 }
 
 .BlackHat{
@@ -27,21 +36,32 @@ body{
 .WhiteHat{	
 	color: white;
 	font-size: 30px;
+	font-weight: bolder;
+	padding: 20px;
+	margin: 5px;
 }
 .GreyHat{
 	color: white;
+	font-weight: bolder;
 	font-size: 34px;
+	padding: 20px;
+	margin: 5px;
 
 }
 .GreyHat,.WhiteHat{
-	background-image:url(http://il2.picdn.net/shutterstock/videos/1281520/thumb/1.jpg);
+	background-image:url(https://media.giphy.com/media/4UzW8S83pWoKs/giphy.gif);
 	background-repeat: no-repeat;
-	background-size: 4500px;
+	background-size: 15000px;
 }
 
 .Forms{
-	background-color: rgb(200, 255, 0);
+	background-image: url(http://www.jeffbullas.com/wp-content/uploads/2013/10/3-Facebook-Survey-Tools-You-Will-Love.jpg);
+	background-size: 950px;
 	color: black;
 	font-style: comic;
-	font-size: 27px;
+	font-size: 30px;
+	font-weight: bolder;
+	background-repeat: repeat-x;
+
 }
+/* Written by Henry Ramos with the assistance of Mr. Irimina and the Computer Science Class at School of the Future */
